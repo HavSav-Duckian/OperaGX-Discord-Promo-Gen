@@ -6,13 +6,14 @@ Last Updated On : December 21, 2023
 
 ## Overview
 
-This Python script allows you to generate discord promo links. It utilizes threading for concurrent generation, and you have the option to use proxies to avoid rate limits.
+This Python script allows you to generate discord promo links in macOS. It utilizes threading for concurrent generation, and you have the option to use proxies to avoid rate limits.
 
 ## Features
 
 - Multi-threaded promo code generation
 - Proxy support to bypass rate limits
 - User-friendly console interface
+- Works on macOS
 
 ## How to Use
 
